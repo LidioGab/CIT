@@ -11,9 +11,9 @@ public class Balada{
 		System.out.println("**************************************\n");
 		System.out.println("1. Pancada e amigos");
 		System.out.println("2. Xandeco e compania");
-		System.out.println("3. bald o careca");
-		System.out.println("4. donald trump e o coreano lá");
-		System.out.println("5. chama na minha papai\n");
+		System.out.println("3. AC/DC");
+		System.out.println("4. Taylor swift");
+		System.out.println("5. Matuê\n");
 		System.out.println("**************************************\n");
 		
 		System.out.println("Informe o numero do show selecionado:");
