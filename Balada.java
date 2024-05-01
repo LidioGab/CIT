@@ -174,8 +174,8 @@ public class Projeto1{
 		
 
 		
-		 recibo = String.format("Show escolhido: %s\nLocalização escolhida: %s\nOpenbar: %s\nValor total: R$ %.2f", nomeShow, local, openbarRecibo, total);
-	     JOptionPane.showMessageDialog(null, recibo, "Recibo", JOptionPane.INFORMATION_MESSAGE);
+		recibo = String.format("Show escolhido: %s\nLocalização escolhida: %s\nOpenbar: %s\nValor total: R$ %.2f", nomeShow, local, openbarRecibo, total);
+	    	JOptionPane.showMessageDialog(null, recibo, "Recibo", JOptionPane.INFORMATION_MESSAGE);
 		sc.close();
 	}
 
